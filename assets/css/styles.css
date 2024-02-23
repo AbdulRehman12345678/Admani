@@ -110,7 +110,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
+  background-color: black;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
@@ -291,17 +291,43 @@ img {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 95%;
+  width: 90%;
 }
 .skills__css {
   width: 85%;
 }
 .skills__js {
-  width: 65%;
+  width: 75%;
 }
-.skills__ux {
-  width: 85%;
+.skills__bootstrap {
+  width: 75%;
 }
+.skills__Jquery {
+  width: 86%;
+}
+.skills__XML {
+  width: 66%;
+}
+.skills__Github {
+  width: 79%;
+}
+.skills__wordpress {
+  width: 50%;
+}
+.skills__php {
+  width: 78%;
+}
+.skills__mysql {
+  width: 56%;
+}
+.skills__laravel {
+  width: 64%;
+}
+.skills__Csharp {
+  width: 45%;
+}
+.skills
+
 .skills__img {
   border-radius: 0.5rem;
 }
